@@ -14,8 +14,10 @@ Simply run :
 
 ## Usage
 
-`trombone list`
-`trombone play SOUND`
+```
+trombone list
+trombone play SOUND
+```
 
 ## Limitation
 
