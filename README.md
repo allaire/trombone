@@ -37,6 +37,6 @@ Pull requests welcome to support more platforms!
 
 ![Lodgem](http://lodgem.s3.amazonaws.com/tm/logotype.png)
 
-Lodgem is small team of passionate who enjoy creating polished applications that solve interesting problems. We consider ourselves as friendly, hard workers and dynamic. We love to see things differently and strongly believe in progress and innovation.
+Lodgem is small team of passionate people who enjoy creating polished applications that solve interesting problems. We love to see things differently and strongly believe in progress and innovation.
 
 At Lodgem, we use open source software a lot and that's why we try hard to share as much as possible.
