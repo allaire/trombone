@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Trombone::VERSION
   spec.authors       = ["Mathieu Allaire"]
   spec.email         = ["mathieu@lodgem.com"]
-  spec.summary       = %q{Campfire sounds, right in your terminal.}
-  spec.description   = %q{Campfire sounds, right in your terminal.}
-  spec.homepage      = ""
+  spec.summary       = %q{Play Campfire sounds, right in your terminal.}
+  spec.description   = %q{Play Campfire sounds, right in your terminal.}
+  spec.homepage      = "http://www.lodgem.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
